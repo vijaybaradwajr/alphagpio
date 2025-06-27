@@ -1,0 +1,9 @@
+../Drivers/Src/GPIO_Drivers.c:10:6:gpio_init	16	static
+../Drivers/Src/GPIO_Drivers.c:85:6:gpio_config_pin	24	static
+../Drivers/Src/GPIO_Drivers.c:127:6:gpio_config_pin_speed	24	static
+../Drivers/Src/GPIO_Drivers.c:144:6:config_write	24	static
+../Drivers/Src/GPIO_Drivers.c:156:6:config_read	24	static
+../Drivers/Src/GPIO_Drivers.c:162:6:gpio_toggle	16	static
+../Drivers/Src/GPIO_Drivers.c:168:6:configure_gpio_interrupt	24	static
+../Drivers/Src/GPIO_Drivers.c:407:6:enable_gpio_interrupt	16	static
+../Drivers/Src/GPIO_Drivers.c:414:6:clear_gpio_interrupt	16	static
